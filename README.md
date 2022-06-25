@@ -1,3 +1,3 @@
 # secure-pass-gui
 GUI version of my secure password generator
-![image](https://user-images.githubusercontent.com/43002364/175783639-3d13aca3-1983-4b75-bc89-118e199b3bdc.png)
+![image](https://user-images.githubusercontent.com/43002364/175783686-8e2844d4-39e9-4136-8dbe-3dd261ef2aff.png)
