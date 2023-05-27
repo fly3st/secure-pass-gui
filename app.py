@@ -7,7 +7,7 @@ window.title('Secure Password Generator')
 window.geometry('620x350')
 window.columnconfigure(0, weight=1)
 window.rowconfigure(0, weight=1)
-window.iconbitmap('C:\\Users\\danie\\Projects\\Python\\secure-pass-gui\\favicon.ico')
+window.iconbitmap('favicon.ico')
 
 tkvar = tk.StringVar(window)
 
